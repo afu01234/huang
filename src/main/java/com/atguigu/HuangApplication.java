@@ -8,5 +8,6 @@ public class HuangApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HuangApplication.class, args);
+		//第一个
 	}
 }
